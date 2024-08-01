@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:nike_store/models/shoes.dart';
 
+
 class Cart with ChangeNotifier {
   // DONE : Shoes Category
   List<Shoes> shoesShop = [

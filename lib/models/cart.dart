@@ -65,7 +65,7 @@ class Cart with ChangeNotifier {
         name: 'Air Force 1 Black ',
         price: '2799',
         description:
-        'White Shoes With Modern Design',
+        'Black Shoes With Modern Design',
         imagePath: 'images/photo8.jpeg'
     ),
     // DONE : Shoes 9

@@ -15,7 +15,7 @@ My Nike Store app where innovation meets style and performance. Our store offers
     ![img_1.png](img_1.png)
 
 - **Cart Screen**
-    - After You Have chosen your Favorite Pair Of Shoes, they will be Transferred To a Cart Where You Can Pay For Them.
+    - After You Have Chosen your Favorite Pair Of Shoes, they will be Transferred To a Cart Where You Can Pay For Them.
 
     ![img_2.png](img_2.png)
   
